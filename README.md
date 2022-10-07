@@ -11,10 +11,6 @@
 
 ---
 
-<p align="center"> BMI Calculator App on C++
-    <br>
-</p>
-
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
